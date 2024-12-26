@@ -1,0 +1,238 @@
+05:43:02.696 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+05:43:02.698 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+05:43:03.015 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:43:03.016 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:43:03.630 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+05:43:09.734 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:43:15.813 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:43:15.815 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:43:15.818 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:43:15.816 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:43:15.819 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:43:15.820 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:43:21.523 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:43:40.674 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:43:40.684 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:47:08.774 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+05:47:08.776 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+05:47:08.957 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:47:08.958 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:47:09.533 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+05:47:34.224 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:47:36.764 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:47:36.771 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:47:36.785 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:47:36.794 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:47:36.876 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:47:36.881 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:47:42.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:47:42.906 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:48:01.190 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:48:53.129 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/dd7f754e443ce1ca91d08317755f99bfced3cd6b
+05:48:53.129 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+05:53:27.670 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+05:53:27.674 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+05:53:27.899 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:53:27.900 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:53:28.477 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+05:53:34.223 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:53:36.411 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:53:36.414 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:53:36.434 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:53:36.437 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:53:36.439 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+05:53:36.442 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+05:53:41.808 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:54:00.701 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:54:20.770 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+05:56:23.141 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8493cc8a76806fc8a97e68bb60f7a941f5b3014b
+05:56:23.141 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+06:01:26.082 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:01:26.086 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:01:26.429 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:01:26.430 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:01:27.062 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:01:32.806 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:01:34.684 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:01:34.687 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:01:39.958 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:03:06.031 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:03:06.033 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:03:06.223 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:03:06.223 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:03:06.772 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:03:12.505 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:03:14.422 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:03:14.425 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:03:17.770 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:04:20.941 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/bb549643e6e388ba4fcf39b7e7e827d3c835fcdd
+06:04:20.942 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+06:06:48.035 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:06:48.038 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:06:48.214 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:06:48.214 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:06:48.837 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:06:54.587 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:06:57.113 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:06:57.119 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:06:57.140 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:06:57.145 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:06:57.146 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:06:57.154 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:06:57.164 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:06:57.172 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:06:57.193 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:06:57.198 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:07:01.038 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:07:01.098 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:07:02.839 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:07:02.918 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:07:21.031 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:09:00.858 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/516cea8457f3646663ddd3e65c3f4c85a939a49c
+06:09:00.858 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+06:11:54.078 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:11:54.080 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:11:54.265 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:11:54.265 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:11:54.812 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:12:19.329 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:12:21.755 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:12:21.756 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:12:21.761 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:12:21.760 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:12:21.764 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:12:21.769 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:12:21.778 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:12:21.785 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:12:21.814 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:12:21.819 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:12:27.352 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:12:45.853 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:12:45.857 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:12:45.939 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:13:06.119 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:14:46.734 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7636442155d645d7f5cfe184fc12b4cb4acbbdd8
+06:14:46.734 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+06:20:13.641 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:20:13.645 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:20:13.835 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:20:13.836 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:20:14.395 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:20:39.341 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:20:41.877 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:20:41.878 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:20:41.883 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:20:41.883 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:20:41.910 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:20:41.916 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:20:41.917 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:20:41.923 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:20:41.925 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:20:41.932 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:20:46.609 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:20:47.400 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:20:47.478 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:20:47.545 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:20:47.555 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:22:17.579 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/5b9353e27f4b216978b4734fe0702d0a569a0bdc
+06:22:17.580 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+06:23:26.516 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:23:26.519 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:23:26.709 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:23:26.710 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:23:27.250 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:23:33.063 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:23:35.635 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:23:35.643 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:23:35.650 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:23:35.656 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:23:35.661 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:23:35.668 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:23:35.694 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:23:35.699 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:23:35.702 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:23:35.707 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:23:59.601 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:23:59.882 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:23:59.905 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:23:59.935 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:23:59.949 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:25:15.711 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/37c8a4f769c6e67d3e4a6344beb3eca2b705fb62
+06:25:15.711 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+06:28:19.828 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:28:19.831 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:28:20.330 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:28:20.332 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:28:21.369 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:28:46.196 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:28:49.014 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:28:49.019 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:28:49.022 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:28:49.023 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:28:49.020 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:28:49.027 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:28:49.028 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:28:49.028 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:28:49.114 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:28:49.124 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:28:52.537 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:28:54.693 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:28:54.818 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:29:13.275 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:29:13.322 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:30:21.867 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/54122780c28c453ada8d8f5fd1cb6d84c26b6250
+06:30:21.867 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+06:37:29.263 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:37:29.265 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:37:29.476 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:37:29.477 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:37:30.080 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:37:33.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:37:36.225 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:37:36.229 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:37:36.243 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:37:36.248 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:37:36.246 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:37:36.251 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:37:41.864 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:37:41.880 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:38:00.607 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:39:39.853 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b5e23a3333fa1b047f9602e9e582a91a4e4b9e87
+06:39:39.854 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+06:41:04.527 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:41:04.530 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:41:04.737 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:41:04.737 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:41:04.788 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '`' that cannot start any token. (Do not use ` for indentation)
+ in 'string', line 79, column 14:
+    consoleLogs: `errors`, `info` # <string> Remo ... 
+                 ^
+.
+06:41:04.801 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+06:41:05.081 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+06:41:59.123 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.27.0
+06:41:59.125 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+06:41:59.308 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:41:59.308 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:41:59.827 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+06:42:05.582 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:42:07.648 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:42:07.648 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:42:07.648 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+06:42:07.651 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:42:07.651 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:42:07.651 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\pranj\Desktop\browserstack-elpais-test\browserstack.yml
+06:42:11.005 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:42:13.041 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+06:42:31.764 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.

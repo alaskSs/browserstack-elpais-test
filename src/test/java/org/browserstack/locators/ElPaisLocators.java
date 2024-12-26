@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 public class ElPaisLocators {
     public static By cookieWindow = By.xpath("//div[@id='didomi-notice']");
     public static By cookieAgreeBTN = By.xpath("//div[@id='didomi-notice']//button[@id='didomi-notice-agree-button']");
+    public static By acceptAndContinueBTN = By.xpath("//*[text()='ACCEPT AND CONTINUE' or text()='accept and continue' or text()='Accept and Continue']");
     public static By languageHeader = By.xpath("//li[@id='edition_head' and @class='ed_a']");
     public static By hamburgerBTN = By.xpath("//button[@id='btn_open_hamburger']");
     public static By hamburgerCloseBTN = By.xpath("//button[@id='btn_toggle_hamburger']");

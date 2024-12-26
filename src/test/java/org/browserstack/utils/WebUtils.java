@@ -1,12 +1,15 @@
 package org.browserstack.utils;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.junit.After;
 import org.junit.Assert;
+import org.junit.Before;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -64,7 +67,7 @@ public class WebUtils {
             // opening web page
             getDriver().get(url);
             // maximizing browser
-            getDriver().manage().window().maximize();
+            //getDriver().manage().window().maximize();
             // wait for page to load
             getWait().until(ExpectedConditions.and(
                     ExpectedConditions.urlToBe(url),
@@ -119,4 +122,17 @@ public class WebUtils {
         }
         return waitThread.get();
     }
+
+//    @Before()
+//    @SuppressWarnings("unchecked")
+//    public void setUp() throws Exception {
+//        ChromeOptions options = new ChromeOptions();
+//        options.addArguments("start-maximized");
+//        driverThread.set(new ChromeDriver(options));
+//    }
+//
+//    @After()
+//    public void tearDown() throws Exception {
+//        getDriver().quit();
+//    }
 }

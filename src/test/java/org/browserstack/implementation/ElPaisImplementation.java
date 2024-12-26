@@ -17,13 +17,15 @@ public class ElPaisImplementation extends WebUtils {
     public static final List<String> translatedHeaders = Collections.synchronizedList(new ArrayList<>());
 
     public static void openElPaisWebPage() {
-        openApplication("https://elpais.com/", "EL PAÍS: el periódico global");
+        openApplication("https://elpais.com/?ed=es", "EL PAÍS: el periódico global");
         checkCookieAlert();
     }
 
     public static void checkCookieAlert() {
         if (isVisible(ElPaisLocators.cookieWindow)) {
             clickOn(ElPaisLocators.cookieAgreeBTN);
+        }if (isVisible(ElPaisLocators.acceptAndContinueBTN)) {
+            clickOn(ElPaisLocators.acceptAndContinueBTN);
         }
     }
 
