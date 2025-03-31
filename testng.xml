@@ -1,0 +1,12 @@
+<suite name="BrowserStack Test Suite" parallel="tests" thread-count="5">
+    <test name="ELPais Test">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="os" value="Windows"/>
+        <parameter name="osVersion" value="11"/>
+        <parameter name="browserVersion" value="latest"/>
+        <parameter name="buildName" value="test"/>
+        <classes>
+            <class name="org.assignment.tests.ELPaisTest"/>
+        </classes>
+    </test>
+</suite>
